@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   files << "CONTRIBUTORS"
   files << "CHANGELIST"
 
-  spec.name = "fpm"
+  spec.name = "fpm-itchio"
   spec.version = FPM::VERSION
   spec.summary = "fpm - package building and mangling"
   spec.description = "Convert directories, rpms, python eggs, rubygems, and " \
